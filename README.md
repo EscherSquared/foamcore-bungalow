@@ -1,3 +1,8 @@
+https://EscherSquared.github.io/TCJ_Model_House_Culminating_website_2026/
+
+
+
+
 TCJ Foam Core Bungalow Project
 Grade 9 culminating project: students build a one-storey bungalow scale model from a single sheet of foam core. Includes three designs (two easy, one medium), printable cut lists, instruction sheet, reflection page, and assessment rubric.
 What's in this repo
